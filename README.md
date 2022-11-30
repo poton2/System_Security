@@ -1,12 +1,12 @@
 # System_Security
 
-**StreamCipher **
+**Stream Cipher**
 
 I will XOR input stream with the given key "COMPUTER76543210" 
 
 Encryption and decryption will be performed with the same module that you design for the Stream Cipher.
 
-**BlockCipher **
+**Block Cipher**
 
 The encryption would be a three step process : pad (if required) -> encrypt (using XOR) -> swap
 
